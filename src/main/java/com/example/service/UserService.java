@@ -1,4 +1,4 @@
 package com.example.service;
 
-public class FirstService {
+public class UserService {
 }
