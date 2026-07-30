@@ -18,7 +18,7 @@ The system should allow users to provide source code for analysis.
 
 **Supported input may include:**
 
-Individual source files
-Multiple files
-Project repositories
-Code snippets
+- Individual source files
+- Multiple files
+- Project repositories
+- Code snippets
