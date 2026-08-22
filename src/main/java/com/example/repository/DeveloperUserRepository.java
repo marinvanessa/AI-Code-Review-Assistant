@@ -10,4 +10,5 @@ import java.util.UUID;
 public interface DeveloperUserRepository extends JpaRepository<DeveloperUser, UUID> {
 
     DeveloperUser findDeveloperUserByEmail(String email);
+    Boolean existsDeveloperUserByEmail(String email);
 }
